@@ -7,8 +7,8 @@ on:
     branches: [ "main" ]
 
 jobs:
-docker pull quay.io/redlib/redlib
-  build:
+
+build:
 
     runs-on: ubuntu-latest
 
